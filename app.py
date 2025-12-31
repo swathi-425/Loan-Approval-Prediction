@@ -46,10 +46,17 @@ if st.button("Predict Loan Status"):
     emp_yes = 1 if self_employed == "Yes" else 0
 
     # C. Create Feature DataFrame in your EXACT provided order
-    feature_names = [
-        'no_of_dependents', 'loan_amount', 'loan_term', 'cibil_score', 
-        'loan_income_ratio', 'education_ Not Graduate', 'self_employed_ Yes', 
-        'total_assets', 'assets_loan_ratio', 'income_per_dependent'
+    feature_names = ['no_of_dependents', 
+        'loan_amount', 
+        'loan_term', 
+        'cibil_score', 
+        'loan_income_ratio', 
+        'education_ Not Graduate', 
+        'self_employed_ Yes',      
+        'total_assets', 
+        'assets_loan_ratio', 
+        'income_per_dependent'
+        
     ]
     
     # Map inputs to the order
@@ -88,4 +95,5 @@ if st.button("Predict Loan Status"):
             st.error(f"❌ **Loan Rejected** (Confidence: {(1-prob)*100:.1f}%)")
             
     except Exception as e:
+
         st.error(f"Prediction Error: {e}")
