@@ -1,16 +1,8 @@
 requirements:
 
-* streamlit
-* pandas
-* scikit-learn
-* joblib
-* numpy
-
-Why these five?
-1. streamlit: To build the web interface.
-2. pandas: To handle the data tables (DataFrames) inside the app.
-3. scikit-learn: This is the most important one. It contains the logic for your Random Forest model and the Scaler. Without this, the app won't understand how to predict.
-4. joblib: Used to load your .pkl files (the model and scaler).
-5. numpy: Used for the mathematical calculations and ratios.
-
+*streamlit
+*pandas
+*scikit-learn
+*joblib
+*numpy
 
