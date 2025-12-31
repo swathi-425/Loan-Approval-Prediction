@@ -3,7 +3,7 @@
 This is a Machine Learning project that automates the loan eligibility process using a **Random Forest Classifier**. The model achieves **99.8% accuracy** and is deployed via **Streamlit**.
 
 ## 🚀 Live Demo
-You can access the live web application here: [PASTE YOUR STREAMLIT LINK HERE]
+You can access the live web application here: https://loan-approval-prediction-vzakmnfubmrzh4vt8gggjw.streamlit.app/
 
 ## 📌 Project Overview
 The goal of this project is to provide banks with an instant, data-driven tool to decide if a loan applicant is eligible. It reduces manual processing time and minimizes human bias.
@@ -33,4 +33,5 @@ The goal of this project is to provide banks with an instant, data-driven tool t
 * Data_dictionary :A Data Dictionary is a document that explains exactly what every column in your dataset represents.
 
 ---
-**Developed by [Your Name]**
+
+**Developed by N.swathi**
