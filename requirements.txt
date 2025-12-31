@@ -1,7 +1,8 @@
-*streamlit
-*pandas
-*scikit-learn
-*joblib
-*numpy
+streamlit
+pandas
+scikit-learn
+joblib
+numpy
+
 
 
