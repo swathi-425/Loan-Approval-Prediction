@@ -137,7 +137,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 <div align="center">
 <img src="https://github.com/swathi-425/Loan-Approval-Prediction/blob/0c19fb25cf2f7e6c8d6682198a71113e4d9a3c40/community%20service%201.jpeg" width="30%">
-<img src="https://github.com/sure-trust/NAGAM-SWATHI-g7-ds/blob/7d2cbb8ad6402ad160c035c14f0076b43efe797e/Final%20capstone%20project/community%20service%202.jpeg" width="30%">
+<img src="https://github.com/swathi-425/Loan-Approval-Prediction/blob/1927e63ee6a58c350b2e05c14ce461e40df24384/community%20service%202.jpeg" width="30%">
 </div>
 
 ---
