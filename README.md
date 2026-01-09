@@ -83,7 +83,7 @@ This project focuses on building a Loan Approval Prediction system using machine
 By automating the loan approval process, banks can make faster, more accurate, and data-driven decisions, reducing financial risk and improving customer satisfaction
 </p>
 <p>
-  <a href="https://github.com/sure-trust/NAGAM-SWATHI-g7-ds/blob/53ec7c0fb05bdd694860a7be944339f39b14ef28/Final%20capstone%20project/SURE%20Trust%20project%20document.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/swathi-425/Loan-Approval-Prediction/blob/2389273b5159c6648681427a589d694ae27a6b42/SURE%20Trust%20project%20document.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
